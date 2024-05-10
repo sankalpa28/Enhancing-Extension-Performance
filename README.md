@@ -6,9 +6,11 @@ Date: 10.05.2024
 Subject: Preliminary Analysis of Extension Performance and Insights for Improvement
 
 1. Data Overview:
+
 The dataset consists of user interactions with the extension on different e-commerce sites such as kapiva.in and beardo.in. The data includes user ID, the site where the coupon was applied, the type and value of the coupon, purchase amount after applying the coupon, redemption date, and time spent on the site.
 
 2. Steps:
+   
 Step 1: Import necessary libraries and load the data
 
 First, I imported pandas and other necessary libraries to handle data analysis and visualization. Then, I loaded the provided dataset into a pandas DataFrame.
@@ -49,9 +51,13 @@ Step 8: Identify potential areas for improvement
 Based on the analysis, I identified potential areas for improving the extension's performance.
 
 Personalized Coupon Offers: I plan to customize offers based on site-specific user preferences to enhance engagement and increase conversion rates.
+
 Enhanced User Experience: Providing features like notifications, personalized recommendations, and targeted promotions based on user preferences.
+
 Performance Monitoring: Continuously monitoring performance metrics to ensure the extension remains effective and responsive to user needs.
+
 Timing of Offers: Optimizing the timing of coupon offers based on user trends, optimizing the extension’s effectiveness.
+
 Diverse Coupon Strategies: Introducing more diverse coupon types such as tiered offers or dynamic discounts based on user behavior.
 
 
